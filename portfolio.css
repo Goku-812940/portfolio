@@ -6,9 +6,9 @@
 }
 .bgimage {
     height:771px;
-    width: 102%;
+    width: 103%;
     background: url('./images/Background-Animation-HTML-CSS.gif');
-    background-size:cover;
+   
     position:relative;
 
 }
@@ -31,9 +31,9 @@
     color: white;
 }
 .abt{
-    
+/*     
  margin-left: 7%;
- margin-right: 7%;
+ margin-right: 7%; */
    
 }
 .pro-img{
@@ -46,7 +46,7 @@
     border-bottom: 3px solid rgb(43, 117, 255);
 }
 .card{
-    margin-left: 117px;
+    margin-left: 70px;
   
 }
 .ms{
@@ -90,7 +90,7 @@ color: #fff;
 #footer {
     background-color:#3393ff;
     text-align: center;
-    width: 102%;
+    width: 103%;
 }
 span{
     font-weight: 600;
